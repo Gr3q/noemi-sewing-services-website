@@ -96,7 +96,7 @@ Nem tudom milyen opciókat szeretnél ide, email, név és üzenet a minimum, de
 
 ## Felépítés fenntartási költségekkel
 
-Az árakon kívül ez a résu nem annyira fontos most.
+Az árakon kívül ez a rész nem annyira fontos most.
 
 - Kód [Github](https://github.com)-on - ingyen
 
@@ -106,8 +106,16 @@ Az árakon kívül ez a résu nem annyira fontos most.
 
 - Kapcsolat (rendelés) form - **50 rendelés/hó-ig ingyenes, utána** **egyszeri ár 22000Ft**. Ez ráér ha túlléped a határt
 
-- Könnyebb weboldal szerkesztés [TinaCMS](https://tina.io/) - ingyenes két emberig, de majd meglátjuk milyen ha már kész a weboldal.
+- Könnyebb weboldal szerkesztés neked [TinaCMS](https://tina.io/) - ingyenes két emberig, de majd meglátjuk mennyire hasznos ha már dolgoztam a weboldalon egy kicsit.
 
 ## Oldal technológiák
 
-* Hugo Templating
+Ez a rész megint csak nem kell, majd ha odáig eljutunk hogy tényleg tudnod kell ezekről akkor TeamViewerezünk róla.
+
+* [Hugo](https://gohugo.io/)
+
+* Fileok [yml](https://megnyitasa.com/extension/yml) és [markdown](https://www.greelane.com/hu/tudom%C3%A1ny-tech-math/sz%C3%A1m%C3%ADt%C3%A1stechnika/what-is-markdown-formatting-4689009/) formátumban
+
+* [Corporio](https://themes.gohugo.io/themes/corporio/)
+
+* Verziókezelés [Git]([Git bevezető | Petrik segédletek](https://segedletek.level14.hu/2018/02/21/git-bevezeto.html))-el - egyszerre a legnehezebb megtanulni és a leghasznosabb dolog ha szöveges fájlok verziókezeléséről van szó.
