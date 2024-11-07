@@ -1,7 +1,7 @@
 enable: true
-topTitle: Testimonials
+topTitle: Ajánlások
 title: |
-  ## What Our Partners Say About Us?
+  ## Mit mondanak az ügyfeleink?
 testimonial:
   - name: Ryan Cook
     comment: >-

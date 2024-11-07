@@ -1,33 +1,33 @@
 main:
-  - name: Home
+  - name: Főoldal
     url: ""
     weight: 1
-  - name: Categories
+  - name: Szolgáltatások
     url: "#service"
     weight: 2
-  - name: Certificates
+  - name: Képesítés
     url: "#resume"
     weight: 3
-  - name: About
+  - name: Rólunk
     url: "#about"
     weight: 4
-  - name: Products
+  - name: Termékek
     url: "#product"
     weight: 5
-  - name: Testimonials
+  - name: Ajánlások
     url: "#testimonial"
     weight: 6
   - name: Blog
     url: "#blog"
     weight: 7
 sitemap:
-  - name: Home
+  - name: Főoldal
     url: ""
     weight: 1
-  - name: Contact Us
+  - name: Kapcsolat
     url: "contact"
     weight: 2
-  - name: Products
+  - name: Termékek
     url: "product"
     weight: 3
   - name: Blog
