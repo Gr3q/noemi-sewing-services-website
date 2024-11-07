@@ -1,5 +1,5 @@
 enable: true
-topTitle: We Are Helmani!
+topTitle: We Are Hello!
 content: >
   # Healthy Food, Healthy Life
 
@@ -8,6 +8,6 @@ content: >
 buttonName: Contact Us
 buttonURL: contact
 image: images/hero/nuts.jpg
-videoThumb: images/hero/pistachios.jpg
-videoURL: 'https://youtu.be/1-NOOoqlvfA'
+# videoThumb: images/hero/pistachios.jpg
+# videoURL: 'https://youtu.be/1-NOOoqlvfA'
 _template: hero_template
