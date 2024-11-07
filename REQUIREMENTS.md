@@ -96,7 +96,7 @@ Nem tudom milyen opciókat szeretnél ide, email, név és üzenet a minimum, de
 
 ## Felépítés fenntartási költségekkel
 
-Az árakon kívül ez a rész nem annyira fontos most.
+Az árakon kívül ez a rész nem annyira fontos most. Majd ha majdnem kész leszünk az oldallal akkor kell ide mindehova regisztrálni neked, valahol nekem is engedélyt adni stb. Most egy ideiglenes helyen dolgozok majd rajta amit elküldök később neked. 
 
 - Kód [Github](https://github.com)-on - ingyen
 
