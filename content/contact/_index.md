@@ -1,4 +1,4 @@
 ---
-title: Contact Me
-breadcrumb: Contact
+title: Lépj kapcsolatba
+breadcrumb: Kapcsolat
 ---

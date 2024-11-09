@@ -1,4 +1,4 @@
-baseURL: 'https://corporio.onrender.com/'
+baseURL: 'https://babasarok.hu/'
 languageCode: en-us
 disableAliases: true
 disableHugoGeneratorInject: false
@@ -6,7 +6,7 @@ enableEmoji: true
 enableGitInfo: false
 enableRobotsTXT: true
 paginate: 6
-title: Helmani
+title: Babasarok
 rssLimit: 10
 outputs:
   home:

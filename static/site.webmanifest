@@ -1,6 +1,6 @@
 {
-  "name": "Helmani",
-  "short_name": "Helmani",
+  "name": "Babasarok",
+  "short_name": "Babasarok",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#3ac58d",
+  "theme_color": "#F1D3B2",
   "background_color": "#ffffff",
   "display": "standalone"
 }
