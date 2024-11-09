@@ -1,5 +1,3 @@
-# In the Name of God, the Originator the Creative
-
 services:
   - type: web
     name: babasarok # Your website name
@@ -50,10 +48,3 @@ services:
       - path: /admin/*
         name: Content-Security-Policy
         value: "default-src *  data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval' 'unsafe-dynamic';  script-src * data: blob: 'unsafe-inline' 'unsafe-eval';  connect-src * data: blob: 'unsafe-inline';  img-src * data: blob: 'unsafe-inline';  frame-src * data: blob: ;  style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline'; frame-ancestors * data: blob: 'unsafe-inline';"
-    # routes:
-    #   - type: redirect
-    #     source: /old
-    #     destination: /new
-    #   - type: rewrite
-    #     source: /a/*
-    #     destination: /a
