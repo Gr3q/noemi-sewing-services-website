@@ -6,6 +6,16 @@
 $primary: #F1D3B2;
 $secondary: #443016;
 
+$background: #fff;
+$light-background: #f1f6f9;
+$dark-background: #1b2031;
+
+body {
+  --background: #fff;
+  --light-background: #f1f6f9;
+  --dark-background: #1b2031;
+}
+
 // Text
 $headings-color: #504538;
 $body-color: #7e7e8a;
