@@ -1,5 +1,3 @@
-// In the Name of God, the Creative, the Originator
-
 var env = {
   siteId: "oir-1rlfsaocyg",
   local: false,

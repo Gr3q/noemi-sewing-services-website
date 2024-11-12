@@ -1,5 +1,3 @@
-// In the Name of God, the Originator the Creative
-
 // TODO: don't import whole the modules, only import necessary function when possible
 /* TODO: remove jquery plugins and use their alternatives
  * - remove their script tags from footer section

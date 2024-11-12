@@ -1,5 +1,3 @@
-// In the Name of God, the Originator the Creative
-
 const autoprefixer = require("autoprefixer");
 // const purgecss = require("@fullhuman/postcss-purgecss");
 // const whitelister = require("purgecss-whitelister");
